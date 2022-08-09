@@ -1,11 +1,18 @@
 body {
     background-color: rgb(202, 202, 236);
     text-align: center;
-}
+    }
+
+    #image-principal {
+        width: 30%;
+        margin: 05%;
+        border: double 10px rgb(194, 4, 137);
+    }
 
 h1 {
     text-align: center;
-    color:rgb(3, 3, 94)
+    color:rgb(3, 3, 94);
+    font-size: 65;
 }
 
 h2 {text-align: center;
@@ -13,5 +20,9 @@ h2 {text-align: center;
 }
 
 p {
-    font-size: 20px;
+    font-size: 25px;
+}
+
+#image-02 {
+    width: 20%;
 }
