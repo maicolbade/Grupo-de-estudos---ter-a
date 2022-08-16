@@ -5,7 +5,7 @@ body {
 
     #image-principal {
         width: 30%;
-        margin: 05%;
+        margin: 01%;
         border: double 10px rgb(194, 4, 137);
     }
 
@@ -19,10 +19,29 @@ h2 {text-align: center;
     color: blueviolet;
 }
 
+h3 {
+    font-size: 35px;
+    text-align: center;
+}
+
 p {
     font-size: 25px;
 }
 
+.topicos {
+    background-color: rgb(125, 125, 255); list-style: none;
+    text-align: left; 
+}
+
+li::marker {
+    content: "\1F3B8";
+}
+
+ul {
+    display: inline-block;
+    font-size: 30px;
+    vertical-align: top;
+}
 #image-02 {
-    width: 20%;
+        width: 18%;
 }
