@@ -3,17 +3,22 @@ body {
     text-align: center;
     }
 
+    #image3 {
+        width: 30%;
+        
+    }
+
     #image-principal {
         width: 30%;
         margin: 01%;
         border: double 10px rgb(194, 4, 137);
-    }
+        }
 
 h1 {
     text-align: center;
     color:rgb(3, 3, 94);
     font-size: 65;
-}
+    }
 
 h2 {text-align: center;
     color: blueviolet;
