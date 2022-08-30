@@ -3,6 +3,10 @@ body {
     text-align: center;
     }
 
+.topicos2 {
+    background-color: rgb(81, 81, 240);
+}
+
     #image3 {
         width: 30%;
         
@@ -49,4 +53,8 @@ ul {
 }
 #image-02 {
         width: 18%;
+}
+
+footer {
+    background-color: rgb(133, 131, 131);
 }
