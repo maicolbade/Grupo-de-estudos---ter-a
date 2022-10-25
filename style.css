@@ -3,6 +3,10 @@ body {
     text-align: center;
     }
 
+    nav li {
+        display: inline;
+    }
+
 .topicos2 {
     background-color: rgb(81, 81, 240);
 }
